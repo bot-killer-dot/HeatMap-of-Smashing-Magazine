@@ -15,7 +15,7 @@ http://smashingmagazine.com/
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/hamayun-cpu/HeatMap-of-Smashing-Magazine/3bfc84047609b71d90116635f4b759a7f6fb578b/index.html)
+[Live Demo Link](https://rawcdn.githack.com/bot-killer-dot/HeatMap-of-Smashing-Magazine/3bfc84047609b71d90116635f4b759a7f6fb578b/index.html)
 
 ## Getting Started
 
@@ -23,11 +23,10 @@ The project is public.
 
 ## Authors
 
-👤 **DevHamayun**
+👤 **Ameer Farooq**
 
-- Github: [@githubhandle](https://github.com/hamayun-cpu)
-- Twitter: [@twitterhandle](https://twitter.com/hamayun_waheed)
-- Linkedin: [linkedin](https://www.linkedin.com/in/hamayun-waheed/)
+- Github: [githubhandle](https://github.com/bot-killer-dot)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ameer-farooq1/)
 
 👤 **Guillain Bisimwa**
 
